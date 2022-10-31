@@ -1,18 +1,42 @@
 <!DOCTYPE html>
 <html lang="pr-br>
+      <head>
     <meta charset="uft-8">
-   <H1>Sobre a Barbearia Alura</H1>
+    <title>Barbearia alura</title>
+    <link rel="stylesheet"href='style.css'>
+      </head>
 
-    <P>Localizada no coração da cidade a Barbearia Alura traz para o mercado o que há de melhor 
+      <body>
+      </header>
+            <h1>Barbearia alura</h1> 
+    </header>
+        <img id="banner" src="banner.jpg">
+        <div class="principal">
+           <h2>Sobre a Barbearia Alura</H2>
+
+    <P>Localizada no coração da cidade a <strong> Barbearia Alura</strong>traz para o mercado o que há de melhor 
     para o seu cabelo e barba. Fundada em 2019, a Barbearia Alura já é destaque na cidade 
     e conquista novos clientes a cada dia.</P>
 
-    <P>Nossa missão é:</strong> "Proporcionar auto-estima e qualidade de vida aos clientes".</strong>.</em></P>
+    <P id="missao"<em>nossa missão é: </strong>Proporcionar auto-estima e qualidade de vida
+     aos clientes".</strong>.</em></P>
 
     <P>Oferecemos profissionais experientes e antenados às mudanças no mundo da moda. O atendimento 
     possui padrão de excelência e agilidade, garantindo qualidade e satisfação dos nossos
  clientes.</P>
-</html>
+</div>
 
+    </div class"beneficios">
+    <h3>beneficios</h3>
 
+    <ul>
+        <li clas="itens">atendimento aos clientes</li>
+        <li class="itens">espaço diferenciado</li>
+        <li class="itens">localização</li>
+        <li class="itens">profissionais qualificados</li>
+    </ul>
+
+    <img src="beneficios.jpg" claass="imagembeneficios">
+</div>
+</body>
 
