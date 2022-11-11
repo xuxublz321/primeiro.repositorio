@@ -34,9 +34,8 @@
         <li class="itens">espaço diferenciado</li>
         <li class="itens">localização</li>
         <li class="itens">profissionais qualificados</li>
-    </ul>
+    color: #FF0000;
+{
 
-    <img src="beneficios.jpg" claass="imagembeneficios">
-</div>
-</body>
-
+     </body>   
+</html>
